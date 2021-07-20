@@ -1,2 +1,2 @@
 # Calculator
-e
+Evaluates polynomials
