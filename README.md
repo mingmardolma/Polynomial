@@ -1,2 +1,2 @@
 # Calculator
-Evaluates polynomials
+subtracts polynomials
