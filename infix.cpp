@@ -1,3 +1,7 @@
+//evaluates infix polynomials using stack
+
+
+
 #include <iostream>
 #include <stack> 
 #include <string>
